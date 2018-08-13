@@ -1,6 +1,6 @@
 vowels = ["a", "e", "i", "o", "u",
           "A", "E", "I", "O", "U"]
-word = input("Provide a word to search for vowels:")
+word = input("2121212 rovide a word to search for vowels:")
 found = []
 for letter in word:
     if letter in vowels:
